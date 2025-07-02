@@ -37,7 +37,7 @@ module.exports = {
         
         // For hosts (please adjust)
         remotes: {
-            "home": "http://localhost:5001/remoteEntry.js",
+          home: "home@https://shilpags26.github.io/home/remoteEntry.js",
 
         },
 
