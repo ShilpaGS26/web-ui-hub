@@ -37,8 +37,7 @@ module.exports = {
         
         // For hosts (please adjust)
         remotes: {
-          home: "home@https://shilpags26.github.io/home/remoteEntry.js",
-
+          home: `promise new URL("https://shilpags26.github.io/home/remoteEntry.js", document.baseURI).href`,
         },
 
         shared: share({
